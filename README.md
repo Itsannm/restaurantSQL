@@ -1,5 +1,5 @@
-# restaurantSQL
-Restaurant Review Project
+# restaurantSQL: Restaurant Review Project
+
 This project is a restaurant review system that allows customers to leave reviews for restaurants and helps them discover the best-rated restaurants. It uses SQLAlchemy for database management and provides a user-friendly interface for interacting with restaurant and customer data.
 
 Table of Contents
